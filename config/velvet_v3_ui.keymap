@@ -40,7 +40,7 @@
 &kp F1     &kp F2      &kp F3    &kp F4     &kp F5         &kp F6                     &kp F7  &kp F8    &kp F9         &kp F10      &kp F11    &kp F12
 &trans     &kp DELETE  &kp TAB   &kp ENTER  &kp BACKSPACE  &none                      &trans  &kp LEFT  &kp DOWN       &kp UP       &kp RIGHT  &kp LS(LEFT_ALT)
 &kp LCTRL  &mo 6       &mkp MB2  &mo 5      &mkp LCLK      &kp ESC                    &none   &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP  &kp END    &kp LEFT_ALT
-                       &trans    &trans     &trans         &trans   &trans    &trans  &mo 3   &trans    &trans         &trans
+                       &trans    &trans     &trans         &trans   &trans    &trans  &trans  &trans    &trans         &trans
             >;
 
             display-name = "Navigation";
