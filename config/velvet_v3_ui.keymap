@@ -48,10 +48,10 @@
 
         Symbols {
             bindings = <
-&trans     &kp ASTRK     &kp N7        &kp N8        &kp N9        &none                          &kp PRCNT      &kp AMPERSAND  &kp LPAR     &kp RPAR   &trans     &trans
-&trans     &kp MINUS     &kp NUMBER_4  &kp NUMBER_5  &kp N6        &kp PLUS                       &none          &kp DOLLAR     &kp EQUAL    &kp UNDER  &none      &kp LS(LEFT_ALT)
-&kp LCTRL  &kp NUMBER_0  &kp N1        &kp NUMBER_2  &kp NUMBER_3  &kp SLASH                      &kp BACKSLASH  &kp EXCL       &kp AT_SIGN  &kp HASH   &kp CARET  &kp LEFT_ALT
-                         &trans        &trans        &trans        &mo 3      &kp HASH    &trans  &trans         &trans         &trans       &trans
+&trans     &kp ASTRK     &kp N7        &kp N8        &kp N9        &none                             &kp PRCNT      &kp AMPERSAND  &kp LPAR     &kp RPAR   &trans     &trans
+&trans     &kp MINUS     &kp NUMBER_4  &kp NUMBER_5  &kp N6        &kp PLUS                          &none          &kp DOLLAR     &kp EQUAL    &kp UNDER  &none      &kp LS(LEFT_ALT)
+&kp LCTRL  &kp NUMBER_0  &kp N1        &kp NUMBER_2  &kp NUMBER_3  &kp KP_SLASH                      &kp BACKSLASH  &kp EXCL       &kp AT_SIGN  &kp HASH   &kp CARET  &kp LEFT_ALT
+                         &trans        &trans        &trans        &mo 3         &kp HASH    &trans  &trans         &trans         &trans       &trans
             >;
 
             display-name = "Symbols";
